@@ -1,0 +1,79 @@
+{
+  "lesson_id": "zero_08",
+  "level": "ZERO",
+  "title": "Числа от 5 до 9",
+  "description": "Продолжаем изучать числа — теперь от пяти до девяти",
+  "cards": [
+    {
+      "card_id": "cinco",
+      "spanish": "cinco",
+      "russian": "пять",
+      "example": "Cinco minutos. (Пять минут)",
+      "note": "5",
+      "order": 36
+    },
+    {
+      "card_id": "seis",
+      "spanish": "seis",
+      "russian": "шесть",
+      "example": "Seis personas. (Шесть человек)",
+      "note": "6",
+      "order": 37
+    },
+    {
+      "card_id": "siete",
+      "spanish": "siete",
+      "russian": "семь",
+      "example": "Siete días. (Семь дней)",
+      "note": "7",
+      "order": 38
+    },
+    {
+      "card_id": "ocho",
+      "spanish": "ocho",
+      "russian": "восемь",
+      "example": "Ocho horas. (Восемь часов)",
+      "note": "8",
+      "order": 39
+    },
+    {
+      "card_id": "nueve",
+      "spanish": "nueve",
+      "russian": "девять",
+      "example": "Nueve euros. (Девять евро)",
+      "note": "9",
+      "order": 40
+    }
+  ],
+  "quiz": {
+    "type": "choice",
+    "questions": [
+      {
+        "question": "Как сказать «пять» по-испански?",
+        "options": ["cuatro", "cinco", "seis", "uno"],
+        "correct_index": 1
+      },
+      {
+        "question": "Как будет «шесть» на испанском?",
+        "options": ["cinco", "seis", "dos", "ocho"],
+        "correct_index": 1
+      },
+      {
+        "question": "Сколько это «siete»?",
+        "options": ["5", "8", "7", "2"],
+        "correct_index": 2
+      },
+      {
+        "question": "Как сказать «девять» по-испански?",
+        "options": ["ocho", "nueve", "diez", "once"],
+        "correct_index": 1
+      },
+      {
+        "question": "Сколько часов: «ocho horas»?",
+        "options": ["9", "7", "8", "4"],
+        "correct_index": 2
+      }
+    ]
+  },
+  "success_message": "Отлично! Ты выучил(а) числа от 5 до 9 — теперь можешь считать почти до десяти! 🔢✨"
+}

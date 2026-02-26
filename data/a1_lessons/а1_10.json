@@ -1,0 +1,64 @@
+{
+  "lesson_id": "a1_10",
+  "level": "A1",
+  "title": "Одежда",
+  "theory": "В испанском одежда описывается словами с указанием рода. Например: 'camisa' (рубашка), 'pantalones' (брюки). Обрати внимание: 'zapatos' (ботинки, обувь) всегда во множественном числе (как 'носки' в русском).",
+
+  "cards": [
+    {
+      "card_id": "camisa",
+      "spanish": "camisa",
+      "russian": "рубашка",
+      "example": "Llevo una camisa blanca. (Я ношу белую рубашку.)"
+    },
+    {
+      "card_id": "pantalones",
+      "spanish": "pantalones",
+      "russian": "брюки",
+      "example": "Mis pantalones son azules. (Мои брюки синие.)"
+    },
+    {
+      "card_id": "zapatos",
+      "spanish": "zapatos",
+      "russian": "туфли / обувь",
+      "example": "Necesito zapatos nuevos. (Мне нужны новые туфли.)"
+    },
+    {
+      "card_id": "vestido",
+      "spanish": "vestido",
+      "russian": "платье",
+      "example": "Ella lleva un vestido rojo. (Она носит красное платье.)"
+    },
+    {
+      "card_id": "sombrero",
+      "spanish": "sombrero",
+      "russian": "шляпа",
+      "example": "En verano uso sombrero. (Летом я ношу шляпу.)"
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "choice",
+      "question": "Как сказать «брюки» по-испански?",
+      "options": [
+        "camisa",
+        "pantalones",
+        "zapatos",
+        "vestido"
+      ],
+      "correct_index": 1
+    },
+    {
+      "type": "fill_text",
+      "question": "Переведи: «Мои туфли чёрные»",
+      "answer": "Mis zapatos son negros"
+    },
+    {
+      "type": "dialogue",
+      "prompt": "Опиши свою одежду сегодня: что ты носишь (рубашка/брюки/платье), какого цвета. Используй слова camisa, pantalones, vestido, zapatos."
+    }
+  ],
+
+  "success_message": "Отлично! Теперь ты можешь описывать свою одежду на испанском 👔👖"
+}

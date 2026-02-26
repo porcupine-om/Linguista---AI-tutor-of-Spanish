@@ -1,0 +1,64 @@
+{
+  "lesson_id": "a1_11",
+  "level": "A1",
+  "title": "Профессии",
+  "theory": "Для описания профессии в испанском используется глагол 'ser' + существительное. Например: 'Soy doctor' (Я врач). Профессии не меняются по роду, но артикль указывает на пол: el doctor / la doctora.",
+
+  "cards": [
+    {
+      "card_id": "doctor",
+      "spanish": "doctor",
+      "russian": "врач",
+      "example": "Mi padre es doctor. (Мой папа — врач.)"
+    },
+    {
+      "card_id": "profesor",
+      "spanish": "profesor",
+      "russian": "учитель",
+      "example": "Ella es profesora de español. (Она учительница испанского.)"
+    },
+    {
+      "card_id": "estudiante",
+      "spanish": "estudiante",
+      "russian": "студент",
+      "example": "Soy estudiante de medicina. (Я студент медицинского факультета.)"
+    },
+    {
+      "card_id": "cocinero",
+      "spanish": "cocinero",
+      "russian": "повар",
+      "example": "Él es cocinero en un restaurante. (Он повар в ресторане.)"
+    },
+    {
+      "card_id": "artista",
+      "spanish": "artista",
+      "russian": "художник",
+      "example": "Mi hermana es artista. (Моя сестра — художница.)"
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "choice",
+      "question": "Как сказать «Я учитель» по-испански?",
+      "options": [
+        "Soy doctor",
+        "Soy profesor",
+        "Soy estudiante",
+        "Soy cocinero"
+      ],
+      "correct_index": 1
+    },
+    {
+      "type": "fill_text",
+      "question": "Переведи: «Она врач»",
+      "answer": "Ella es doctora"
+    },
+    {
+      "type": "dialogue",
+      "prompt": "Расскажи о профессиях в своей семье: кто чем занимается. Используй слова doctor, profesor, estudiante, cocinero."
+    }
+  ],
+
+  "success_message": "Отлично! Теперь ты можешь говорить о профессиях — база для знакомства и общения! 👨‍⚕️👩‍🏫"
+}

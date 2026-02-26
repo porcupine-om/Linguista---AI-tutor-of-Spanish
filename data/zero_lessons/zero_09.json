@@ -1,0 +1,79 @@
+{
+  "lesson_id": "zero_09",
+  "level": "ZERO",
+  "title": "Числа от 10 до 14",
+  "description": "Изучим числа от десяти до четырнадцати",
+  "cards": [
+    {
+      "card_id": "diez",
+      "spanish": "diez",
+      "russian": "десять",
+      "example": "Diez dedos. (Десять пальцев)",
+      "note": "10",
+      "order": 41
+    },
+    {
+      "card_id": "once",
+      "spanish": "once",
+      "russian": "одиннадцать",
+      "example": "Once años. (Одиннадцать лет)",
+      "note": "11",
+      "order": 42
+    },
+    {
+      "card_id": "doce",
+      "spanish": "doce",
+      "russian": "двенадцать",
+      "example": "Doce meses. (Двенадцать месяцев)",
+      "note": "12",
+      "order": 43
+    },
+    {
+      "card_id": "trece",
+      "spanish": "trece",
+      "russian": "тринадцать",
+      "example": "Trece flores. (Тринадцать цветов)",
+      "note": "13",
+      "order": 44
+    },
+    {
+      "card_id": "catorce",
+      "spanish": "catorce",
+      "russian": "четырнадцать",
+      "example": "Catorce días. (Четырнадцать дней)",
+      "note": "14",
+      "order": 45
+    }
+  ],
+  "quiz": {
+    "type": "choice",
+    "questions": [
+      {
+        "question": "Как сказать «десять» по-испански?",
+        "options": ["nueve", "diez", "once", "doce"],
+        "correct_index": 1
+      },
+      {
+        "question": "Как будет «двенадцать» на испанском?",
+        "options": ["once", "doce", "trece", "catorce"],
+        "correct_index": 1
+      },
+      {
+        "question": "Сколько это - «trece»?",
+        "options": ["10", "14", "13", "11"],
+        "correct_index": 2
+      },
+      {
+        "question": "Как сказать «четырнадцать» по-испански?",
+        "options": ["quince", "trece", "catorce", "doce"],
+        "correct_index": 2
+      },
+      {
+        "question": "Сколько месяцев: «doce meses»?",
+        "options": ["9", "10", "12", "11"],
+        "correct_index": 2
+      }
+    ]
+  },
+  "success_message": "Отлично! Ты выучил(а) числа от 10 до 14 — остался один шаг до двадцати! 🔢✨"
+}

@@ -1,0 +1,81 @@
+{
+  "lesson_id": "a2_03",
+  "level": "A2",
+  "title": "Сравнения: больше, меньше, такой же",
+  "description": "Учимся сравнивать людей и предметы с помощью конструкций más que, menos que, tan...como.",
+  
+  "cards": [
+    {
+      "card_id": "mas_que",
+      "spanish": "más que",
+      "russian": "больше / более чем",
+      "example": "Soy más alto que mi hermano. (Я выше своего брата.)",
+      "note": "Конструкция для сравнения: más + прилагательное + que",
+      "order": 1
+    },
+    {
+      "card_id": "menos_que",
+      "spanish": "menos que",
+      "russian": "меньше / менее чем",
+      "example": "Ella es menos tímida que antes. (Она менее застенчива, чем раньше.)",
+      "note": "Конструкция для сравнения: menos + прилагательное + que",
+      "order": 2
+    },
+    {
+      "card_id": "tan_como",
+      "spanish": "tan...como",
+      "russian": "такой же...как",
+      "example": "Él es tan inteligente como tú. (Он такой же умный, как ты.)",
+      "note": "Конструкция для равенства: tan + прилагательное + como",
+      "order": 3
+    },
+    {
+      "card_id": "mejor_que",
+      "spanish": "mejor que",
+      "russian": "лучше чем",
+      "example": "Este restaurante es mejor que el otro. (Этот ресторан лучше, чем тот.)",
+      "note": "Неправильная форма сравнения от bueno → mejor",
+      "order": 4
+    },
+    {
+      "card_id": "peor_que",
+      "spanish": "peor que",
+      "russian": "хуже чем",
+      "example": "Hoy hace peor tiempo que ayer. (Сегодня погода хуже, чем вчера.)",
+      "note": "Неправильная форма сравнения от malo → peor",
+      "order": 5
+    }
+  ],
+
+  "theory": "В испанском есть три основных типа сравнений:\n\n1. Неравенство (больше/меньше):\n   más + прилагательное + que → más alto que (выше чем)\n   menos + прилагательное + que → menos caro que (дешевле чем)\n\n2. Равенство:\n   tan + прилагательное + como → tan rápido como (так же быстро, как)\n   tanto + существительное + como → tengo tanto dinero como tú (у меня столько же денег, как у тебя)\n\n3. Неправильные формы:\n   bueno → mejor que (лучше чем)\n   malo → peor que (хуже чем)\n   grande → mayor que (старше / больше по размеру)\n   pequeño → menor que (младше / меньше по размеру)\n\nВажно: прилагательное согласуется с подлежащим, а не с тем, с чем сравнивают:\nElla es más alta que yo. (Она выше меня — alta согласуется с ella, а не с yo)",
+
+  "exercises": [
+    {
+      "type": "choice",
+      "question": "Как сказать «Она умнее меня» по-испански?",
+      "options": [
+        "Ella es más inteligente que yo",
+        "Ella es tan inteligente que yo",
+        "Ella es menos inteligente como yo",
+        "Ella es mejor inteligente que yo"
+      ],
+      "correct_index": 0
+    },
+    {
+      "type": "fill_text",
+      "question": "Заполни пропуск: «Этот фильм такой же интересный, как книга» → Esta película es ___ interesante ___ el libro",
+      "answer": "tan...como"
+    },
+    {
+      "type": "fill_text",
+      "question": "Переведи: «Мой телефон дешевле, чем твой»",
+      "answer": "Mi teléfono es más barato que el tuyo"
+    },
+    {
+      "type": "dialogue",
+      "prompt": "Сравни двух людей или два предмета на испанском (3–4 предложения). Используй как минимум две конструкции: más que / menos que / tan...como / mejor que. Пример: «Мой брат выше меня, но я быстрее бегаю»."
+    }
+  ],
+
+  "success_message": "Отлично! Теперь ты умеешь сравнивать людей и предметы — это важный навык для живого общения на испанском! ⚖️✨"
+}

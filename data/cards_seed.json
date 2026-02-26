@@ -1,0 +1,2952 @@
+[
+  {
+    "id": "hola",
+    "type": "word",
+    "spanish": "hola",
+    "russian": "привет",
+    "transcription": "о́ла",
+    "level": "A1",
+    "tags": [
+      "приветствия",
+      "базовый_фундамент"
+    ],
+    "example_spanish": "¡Hola! ¿Cómo estás?",
+    "example_russian": "Привет! Как дела?",
+    "priority": 10
+  },
+  {
+    "id": "adios",
+    "type": "word",
+    "spanish": "adiós",
+    "russian": "до свидания",
+    "transcription": "а-дио́с",
+    "level": "A1",
+    "tags": [
+      "приветствия",
+      "базовый_фундамент"
+    ],
+    "example_spanish": "¡Adiós! Hasta mañana.",
+    "example_russian": "Пока! До завтра.",
+    "priority": 10
+  },
+  {
+    "id": "yo",
+    "type": "word",
+    "spanish": "yo",
+    "russian": "я",
+    "transcription": "ё",
+    "level": "A1",
+    "tags": [
+      "местоимения",
+      "базовый_фундамент"
+    ],
+    "example_spanish": "Yo soy estudiante.",
+    "example_russian": "Я студент.",
+    "priority": 10
+  },
+  {
+    "id": "tu",
+    "type": "word",
+    "spanish": "tú",
+    "russian": "ты",
+    "transcription": "ту",
+    "level": "A1",
+    "tags": [
+      "местоимения",
+      "базовый_фундамент"
+    ],
+    "example_spanish": "¿Tú hablas español?",
+    "example_russian": "Ты говоришь по-испански?",
+    "priority": 10
+  },
+  {
+    "id": "uno",
+    "type": "word",
+    "spanish": "uno",
+    "russian": "один",
+    "transcription": "у́но",
+    "level": "A1",
+    "tags": [
+      "цифры",
+      "базовый_фундамент"
+    ],
+    "example_spanish": "Tengo un libro.",
+    "example_russian": "У меня есть одна книга.",
+    "priority": 9
+  },
+  {
+    "id": "dos",
+    "type": "word",
+    "spanish": "dos",
+    "russian": "два",
+    "transcription": "дос",
+    "level": "A1",
+    "tags": [
+      "цифры",
+      "базовый_фундамент"
+    ],
+    "example_spanish": "Dos manzanas, por favor.",
+    "example_russian": "Два яблока, пожалуйста.",
+    "priority": 9
+  },
+  {
+    "id": "rojo",
+    "type": "word",
+    "spanish": "rojo",
+    "russian": "красный",
+    "transcription": "ро́хо",
+    "level": "A1",
+    "tags": [
+      "цвета",
+      "базовый_фундамент"
+    ],
+    "example_spanish": "El coche es rojo.",
+    "example_russian": "Машина красная.",
+    "priority": 8
+  },
+  {
+    "id": "grande",
+    "type": "word",
+    "spanish": "grande",
+    "russian": "большой",
+    "transcription": "гра́нде",
+    "level": "A1",
+    "tags": [
+      "прилагательные",
+      "базовый_фундамент"
+    ],
+    "example_spanish": "Una casa grande.",
+    "example_russian": "Большой дом.",
+    "priority": 8
+  },
+  {
+    "id": "madre",
+    "type": "word",
+    "spanish": "madre",
+    "russian": "мама",
+    "transcription": "ма́дэ",
+    "level": "A1",
+    "tags": [
+      "семья",
+      "базовый_фундамент"
+    ],
+    "example_spanish": "Mi madre cocina bien.",
+    "example_russian": "Моя мама хорошо готовит.",
+    "priority": 9
+  },
+  {
+    "id": "padre",
+    "type": "word",
+    "spanish": "padre",
+    "russian": "папа",
+    "transcription": "па́дрэ",
+    "level": "A1",
+    "tags": [
+      "семья",
+      "базовый_фундамент"
+    ],
+    "example_spanish": "Mi padre trabaja en un hospital.",
+    "example_russian": "Мой папа работает в больнице.",
+    "priority": 9
+  },
+  {
+    "id": "manzana",
+    "type": "word",
+    "spanish": "manzana",
+    "russian": "яблоко",
+    "transcription": "манса́на",
+    "level": "A1",
+    "tags": [
+      "еда",
+      "фрукты",
+      "личная_сфера"
+    ],
+    "example_spanish": "Me gusta comer manzanas.",
+    "example_russian": "Мне нравится есть яблоки.",
+    "priority": 8
+  },
+  {
+    "id": "pan",
+    "type": "word",
+    "spanish": "pan",
+    "russian": "хлеб",
+    "transcription": "пан",
+    "level": "A1",
+    "tags": [
+      "еда",
+      "продукты",
+      "личная_сфера"
+    ],
+    "example_spanish": "Necesito comprar pan.",
+    "example_russian": "Мне нужно купить хлеб.",
+    "priority": 8
+  },
+  {
+    "id": "mesa",
+    "type": "word",
+    "spanish": "mesa",
+    "russian": "стол",
+    "transcription": "ме́са",
+    "level": "A1",
+    "tags": [
+      "дом",
+      "мебель",
+      "личная_сфера"
+    ],
+    "example_spanish": "La comida está en la mesa.",
+    "example_russian": "Еда на столе.",
+    "priority": 8
+  },
+  {
+    "id": "cama",
+    "type": "word",
+    "spanish": "cama",
+    "russian": "кровать",
+    "transcription": "ка́ма",
+    "level": "A1",
+    "tags": [
+      "дом",
+      "мебель",
+      "личная_сфера"
+    ],
+    "example_spanish": "Duermo en mi cama.",
+    "example_russian": "Я сплю в своей кровати.",
+    "priority": 8
+  },
+  {
+    "id": "autobus",
+    "type": "word",
+    "spanish": "autobús",
+    "russian": "автобус",
+    "transcription": "ауто́бус",
+    "level": "A1",
+    "tags": [
+      "транспорт",
+      "город",
+      "личная_сфера"
+    ],
+    "example_spanish": "Voy al trabajo en autobús.",
+    "example_russian": "Я еду на работу на автобусе.",
+    "priority": 8
+  },
+  {
+    "id": "tienda",
+    "type": "word",
+    "spanish": "tienda",
+    "russian": "магазин",
+    "transcription": "тье́нда",
+    "level": "A1",
+    "tags": [
+      "город",
+      "места",
+      "личная_сфера"
+    ],
+    "example_spanish": "Compro ropa en la tienda.",
+    "example_russian": "Я покупаю одежду в магазине.",
+    "priority": 8
+  },
+  {
+    "id": "cabeza",
+    "type": "word",
+    "spanish": "cabeza",
+    "russian": "голова",
+    "transcription": "кабе́са",
+    "level": "A1",
+    "tags": [
+      "тело",
+      "личная_сфера"
+    ],
+    "example_spanish": "Me duele la cabeza.",
+    "example_russian": "У меня болит голова.",
+    "priority": 7
+  },
+  {
+    "id": "camisa",
+    "type": "word",
+    "spanish": "camisa",
+    "russian": "рубашка",
+    "transcription": "ками́са",
+    "level": "A1",
+    "tags": [
+      "одежда",
+      "личная_сфера"
+    ],
+    "example_spanish": "Llevo una camisa blanca.",
+    "example_russian": "Я ношу белую рубашку.",
+    "priority": 7
+  },
+  {
+    "id": "doctor",
+    "type": "word",
+    "spanish": "doctor",
+    "russian": "врач",
+    "transcription": "докто́р",
+    "level": "A2",
+    "tags": [
+      "профессии",
+      "работа",
+      "социальное"
+    ],
+    "example_spanish": "El doctor me examinó.",
+    "example_russian": "Врач осмотрел меня.",
+    "priority": 7
+  },
+  {
+    "id": "musica",
+    "type": "word",
+    "spanish": "música",
+    "russian": "музыка",
+    "transcription": "му́сика",
+    "level": "A1",
+    "tags": [
+      "хобби",
+      "интересы",
+      "социальное"
+    ],
+    "example_spanish": "Escucho música todos los días.",
+    "example_russian": "Я слушаю музыку каждый день.",
+    "priority": 7
+  },
+  {
+    "id": "perro",
+    "type": "word",
+    "spanish": "perro",
+    "russian": "собака",
+    "transcription": "пе́рро",
+    "level": "A1",
+    "tags": [
+      "животные",
+      "природа",
+      "социальное"
+    ],
+    "example_spanish": "Tengo un perro pequeño.",
+    "example_russian": "У меня есть маленькая собака.",
+    "priority": 7
+  },
+  {
+    "id": "sol",
+    "type": "word",
+    "spanish": "sol",
+    "russian": "солнце",
+    "transcription": "соль",
+    "level": "A2",
+    "tags": [
+      "природа",
+      "погода",
+      "социальное"
+    ],
+    "example_spanish": "Hace sol hoy.",
+    "example_russian": "Сегодня солнечно.",
+    "priority": 6
+  },
+  {
+    "id": "buenos_dias",
+    "type": "phrase",
+    "spanish": "buenos días",
+    "russian": "доброе утро",
+    "transcription": "буэнос ди́ас",
+    "level": "A1",
+    "tags": [
+      "приветствия",
+      "базовый_фундамент"
+    ],
+    "example_spanish": "¡Buenos días! ¿Cómo amaneciste?",
+    "example_russian": "Доброе утро! Как ты проснулся?",
+    "priority": 10
+  },
+  {
+    "id": "como_estas",
+    "type": "phrase",
+    "spanish": "¿cómo estás?",
+    "russian": "как ты?",
+    "transcription": "ко́мо эста́с",
+    "level": "A1",
+    "tags": [
+      "приветствия",
+      "базовый_фундамент"
+    ],
+    "example_spanish": "¡Hola! ¿Cómo estás hoy?",
+    "example_russian": "Привет! Как ты сегодня?",
+    "priority": 10
+  },
+  {
+    "id": "quiero_cafe",
+    "type": "phrase",
+    "spanish": "quiero un café",
+    "russian": "я хочу кофе",
+    "transcription": "кье́ро ун ка́фе",
+    "level": "A1",
+    "tags": [
+      "еда",
+      "напитки",
+      "личная_сфера"
+    ],
+    "example_spanish": "En el café dije: «Quiero un café, por favor».",
+    "example_russian": "В кафе я сказал(а): «Я хочу кофе, пожалуйста».",
+    "grammar_note": "Querer спрягается: yo quiero, tú quieres, él quiere",
+    "priority": 9
+  },
+  {
+    "id": "donde_esta_el_bano",
+    "type": "phrase",
+    "spanish": "¿dónde está el baño?",
+    "russian": "где туалет?",
+    "transcription": "до́нде эста́ эль ба́ньо",
+    "level": "A1",
+    "tags": [
+      "путешествия",
+      "выживание",
+      "город"
+    ],
+    "example_spanish": "En el restaurante pregunté: «¿Dónde está el baño?»",
+    "example_russian": "В ресторане я спросил(а): «Где туалет?»",
+    "priority": 10
+  },
+  {
+    "id": "me_gusta",
+    "type": "phrase",
+    "spanish": "me gusta",
+    "russian": "мне нравится",
+    "transcription": "ме гу́ста",
+    "level": "A1",
+    "tags": [
+      "хобби",
+      "интересы",
+      "социальное"
+    ],
+    "example_spanish": "Me gusta bailar salsa.",
+    "example_russian": "Мне нравится танцевать сальсу.",
+    "grammar_note": "Me gusta + существительное/инфинитив",
+    "priority": 9
+  },
+  {
+    "id": "hace_frio",
+    "type": "phrase",
+    "spanish": "hace frío",
+    "russian": "холодно (на улице)",
+    "transcription": "а́се фри́о",
+    "level": "A2",
+    "tags": [
+      "погода",
+      "природа",
+      "социальное"
+    ],
+    "example_spanish": "Hoy hace frío, necesito un abrigo.",
+    "example_russian": "Сегодня холодно, мне нужна куртка.",
+    "priority": 7
+  },
+  [
+    {
+      "id": "autobus",
+      "type": "word",
+      "spanish": "autobús",
+      "russian": "автобус",
+      "transcription": "ауто́бус",
+      "level": "A1",
+      "tags": [
+        "транспорт",
+        "город"
+      ],
+      "example_spanish": "Voy al trabajo en autobús.",
+      "example_russian": "Я еду на работу на автобусе.",
+      "priority": 10
+    },
+    {
+      "id": "metro",
+      "type": "word",
+      "spanish": "metro",
+      "russian": "метро",
+      "transcription": "ме́тро",
+      "level": "A1",
+      "tags": [
+        "транспорт",
+        "город"
+      ],
+      "example_spanish": "El metro es rápido en Madrid.",
+      "example_russian": "Метро в Мадриде быстрое.",
+      "priority": 10
+    },
+    {
+      "id": "coche",
+      "type": "word",
+      "spanish": "coche",
+      "russian": "машина",
+      "transcription": "ко́че",
+      "level": "A1",
+      "tags": [
+        "транспорт",
+        "город"
+      ],
+      "example_spanish": "Mi padre tiene un coche azul.",
+      "example_russian": "У моего отца есть синяя машина.",
+      "priority": 9
+    },
+    {
+      "id": "bicicleta",
+      "type": "word",
+      "spanish": "bicicleta",
+      "russian": "велосипед",
+      "transcription": "бисикле́та",
+      "level": "A1",
+      "tags": [
+        "транспорт",
+        "город"
+      ],
+      "example_spanish": "Voy al parque en bicicleta.",
+      "example_russian": "Я еду в парк на велосипеде.",
+      "priority": 8
+    },
+    {
+      "id": "taxi",
+      "type": "word",
+      "spanish": "taxi",
+      "russian": "такси",
+      "transcription": "та́кси",
+      "level": "A1",
+      "tags": [
+        "транспорт",
+        "город"
+      ],
+      "example_spanish": "Llamo un taxi para ir al aeropuerto.",
+      "example_russian": "Я вызываю такси, чтобы поехать в аэропорт.",
+      "priority": 9
+    },
+    {
+      "id": "tienda",
+      "type": "word",
+      "spanish": "tienda",
+      "russian": "магазин",
+      "transcription": "тье́нда",
+      "level": "A1",
+      "tags": [
+        "город",
+        "покупки"
+      ],
+      "example_spanish": "Compro pan en la tienda.",
+      "example_russian": "Я покупаю хлеб в магазине.",
+      "priority": 10
+    },
+    {
+      "id": "supermercado",
+      "type": "word",
+      "spanish": "supermercado",
+      "russian": "супермаркет",
+      "transcription": "супермерка́до",
+      "level": "A1",
+      "tags": [
+        "город",
+        "покупки"
+      ],
+      "example_spanish": "Vamos al supermercado los sábados.",
+      "example_russian": "Мы ходим в супермаркет по субботам.",
+      "priority": 9
+    },
+    {
+      "id": "banco",
+      "type": "word",
+      "spanish": "banco",
+      "russian": "банк",
+      "transcription": "ба́нко",
+      "level": "A1",
+      "tags": [
+        "город",
+        "услуги"
+      ],
+      "example_spanish": "Necesito ir al banco a sacar dinero.",
+      "example_russian": "Мне нужно зайти в банк, чтобы снять деньги.",
+      "priority": 8
+    },
+    {
+      "id": "parque",
+      "type": "word",
+      "spanish": "parque",
+      "russian": "парк",
+      "transcription": "па́рке",
+      "level": "A1",
+      "tags": [
+        "город",
+        "отдых"
+      ],
+      "example_spanish": "Los niños juegan en el parque.",
+      "example_russian": "Дети играют в парке.",
+      "priority": 9
+    },
+    {
+      "id": "calle",
+      "type": "word",
+      "spanish": "calle",
+      "russian": "улица",
+      "transcription": "ка́лье",
+      "level": "A1",
+      "tags": [
+        "город",
+        "ориентирование"
+      ],
+      "example_spanish": "Vivo en la calle Mayor.",
+      "example_russian": "Я живу на улице Майор.",
+      "priority": 10
+    },
+    {
+      "id": "plaza",
+      "type": "word",
+      "spanish": "plaza",
+      "russian": "площадь",
+      "transcription": "пла́са",
+      "level": "A1",
+      "tags": [
+        "город",
+        "ориентирование"
+      ],
+      "example_spanish": "Nos encontramos en la plaza principal.",
+      "example_russian": "Мы встречаемся на главной площади.",
+      "priority": 8
+    },
+    {
+      "id": "estacion",
+      "type": "word",
+      "spanish": "estación",
+      "russian": "станция / вокзал",
+      "transcription": "эста́сьон",
+      "level": "A1",
+      "tags": [
+        "транспорт",
+        "город"
+      ],
+      "example_spanish": "La estación de tren está cerca.",
+      "example_russian": "Железнодорожный вокзал находится рядом.",
+      "priority": 9
+    },
+    {
+      "id": "aeropuerto",
+      "type": "word",
+      "spanish": "aeropuerto",
+      "russian": "аэропорт",
+      "transcription": "аэро́пуэрто",
+      "level": "A1",
+      "tags": [
+        "транспорт",
+        "путешествия"
+      ],
+      "example_spanish": "El avión sale del aeropuerto a las 10.",
+      "example_russian": "Самолёт вылетает из аэропорта в 10.",
+      "priority": 8
+    },
+    {
+      "id": "billete",
+      "type": "word",
+      "spanish": "billete",
+      "russian": "билет",
+      "transcription": "билье́те",
+      "level": "A1",
+      "tags": [
+        "транспорт",
+        "покупки"
+      ],
+      "example_spanish": "Compro un billete de autobús.",
+      "example_russian": "Я покупаю билет на автобус.",
+      "priority": 9
+    },
+    {
+      "id": "parada",
+      "type": "word",
+      "spanish": "parada",
+      "russian": "остановка",
+      "transcription": "парада́",
+      "level": "A1",
+      "tags": [
+        "транспорт",
+        "город"
+      ],
+      "example_spanish": "La parada de autobús está ahí.",
+      "example_russian": "Остановка автобуса находится там.",
+      "priority": 8
+    },
+    {
+      "id": "semáforo",
+      "type": "word",
+      "spanish": "semáforo",
+      "russian": "светофор",
+      "transcription": "сема́форо",
+      "level": "A1",
+      "tags": [
+        "город",
+        "безопасность"
+      ],
+      "example_spanish": "Espera el semáforo en verde.",
+      "example_russian": "Жди, пока светофор станет зелёным.",
+      "priority": 7
+    },
+    {
+      "id": "cruce",
+      "type": "word",
+      "spanish": "cruce",
+      "russian": "перекрёсток",
+      "transcription": "кру́се",
+      "level": "A1",
+      "tags": [
+        "город",
+        "ориентирование"
+      ],
+      "example_spanish": "Gira a la derecha en el cruce.",
+      "example_russian": "Поверни направо на перекрёстке.",
+      "priority": 7
+    },
+    {
+      "id": "derecha",
+      "type": "word",
+      "spanish": "derecha",
+      "russian": "право",
+      "transcription": "дерэ́ча",
+      "level": "A1",
+      "tags": [
+        "ориентирование",
+        "город"
+      ],
+      "example_spanish": "La farmacia está a la derecha.",
+      "example_russian": "Аптека находится справа.",
+      "priority": 10
+    },
+    {
+      "id": "izquierda",
+      "type": "word",
+      "spanish": "izquierda",
+      "russian": "лево",
+      "transcription": "исье́рда",
+      "level": "A1",
+      "tags": [
+        "ориентирование",
+        "город"
+      ],
+      "example_spanish": "Gira a la izquierda después del banco.",
+      "example_russian": "Поверни налево после банка.",
+      "priority": 10
+    },
+    {
+      "id": "recto",
+      "type": "word",
+      "spanish": "recto",
+      "russian": "прямо",
+      "transcription": "рэ́кто",
+      "level": "A1",
+      "tags": [
+        "ориентирование",
+        "город"
+      ],
+      "example_spanish": "Sigue recto dos cuadras.",
+      "example_russian": "Иди прямо два квартала.",
+      "priority": 10
+    },
+    {
+      "id": "cerca",
+      "type": "word",
+      "spanish": "cerca",
+      "russian": "близко",
+      "transcription": "сэ́рка",
+      "level": "A1",
+      "tags": [
+        "ориентирование",
+        "город"
+      ],
+      "example_spanish": "El museo está cerca de aquí.",
+      "example_russian": "Музей находится недалеко отсюда.",
+      "priority": 9
+    },
+    {
+      "id": "lejos",
+      "type": "word",
+      "spanish": "lejos",
+      "russian": "далеко",
+      "transcription": "лэ́хос",
+      "level": "A1",
+      "tags": [
+        "ориентирование",
+        "город"
+      ],
+      "example_spanish": "La playa está lejos de la ciudad.",
+      "example_russian": "Пляж находится далеко от города.",
+      "priority": 9
+    },
+    {
+      "id": "farmacia",
+      "type": "word",
+      "spanish": "farmacia",
+      "russian": "аптека",
+      "transcription": "фармаси́а",
+      "level": "A1",
+      "tags": [
+        "город",
+        "услуги"
+      ],
+      "example_spanish": "Necesito comprar medicinas en la farmacia.",
+      "example_russian": "Мне нужно купить лекарства в аптеке.",
+      "priority": 8
+    },
+    {
+      "id": "hospital",
+      "type": "word",
+      "spanish": "hospital",
+      "russian": "больница",
+      "transcription": "оспита́ль",
+      "level": "A1",
+      "tags": [
+        "город",
+        "услуги"
+      ],
+      "example_spanish": "El hospital está al lado del parque.",
+      "example_russian": "Больница находится рядом с парком.",
+      "priority": 8
+    },
+    {
+      "id": "restaurante",
+      "type": "word",
+      "spanish": "restaurante",
+      "russian": "ресторан",
+      "transcription": "рэстаура́нте",
+      "level": "A1",
+      "tags": [
+        "город",
+        "еда"
+      ],
+      "example_spanish": "Cenamos en un restaurante italiano.",
+      "example_russian": "Мы ужинаем в итальянском ресторане.",
+      "priority": 9
+    },
+    {
+      "id": "avenida",
+      "type": "word",
+      "spanish": "avenida",
+      "russian": "проспект / широкая улица",
+      "transcription": "авени́да",
+      "level": "A2",
+      "tags": [
+        "город",
+        "ориентирование"
+      ],
+      "example_spanish": "La avenida principal está llena de tiendas.",
+      "example_russian": "Главный проспект полон магазинов.",
+      "priority": 7
+    },
+    {
+      "id": "barrio",
+      "type": "word",
+      "spanish": "barrio",
+      "russian": "район / квартал",
+      "transcription": "ба́рьо",
+      "level": "A2",
+      "tags": [
+        "город",
+        "жильё"
+      ],
+      "example_spanish": "Vivo en un barrio tranquilo.",
+      "example_russian": "Я живу в тихом районе.",
+      "priority": 8
+    },
+    {
+      "id": "cruzar",
+      "type": "word",
+      "spanish": "cruzar",
+      "russian": "переходить (улицу)",
+      "transcription": "круса́р",
+      "level": "A2",
+      "tags": [
+        "город",
+        "безопасность"
+      ],
+      "example_spanish": "Cruza la calle con cuidado.",
+      "example_russian": "Переходи улицу осторожно.",
+      "grammar_note": "Правильный глагол на -ar: cruzo, cruzas, cruza...",
+      "priority": 8
+    },
+    {
+      "id": "subir",
+      "type": "word",
+      "spanish": "subir",
+      "russian": "подниматься / заходить (в транспорт)",
+      "transcription": "су́бир",
+      "level": "A2",
+      "tags": [
+        "транспорт",
+        "движение"
+      ],
+      "example_spanish": "Subo al autobús en la primera parada.",
+      "example_russian": "Я захожу в автобус на первой остановке.",
+      "grammar_note": "Неправильный глагол: subo, subes, sube, subimos, subís, suben",
+      "priority": 8
+    },
+    {
+      "id": "bajar",
+      "type": "word",
+      "spanish": "bajar",
+      "russian": "спускаться / выходить (из транспорта)",
+      "transcription": "ба́хар",
+      "level": "A2",
+      "tags": [
+        "транспорт",
+        "движение"
+      ],
+      "example_spanish": "Bajo del metro en la estación Sol.",
+      "example_russian": "Я выхожу из метро на станции Соль.",
+      "grammar_note": "Неправильный глагол: bajo, bajas, baja, bajamos, bajáis, bajan",
+      "priority": 8
+    },
+    {
+      "id": "boleto",
+      "type": "word",
+      "spanish": "boleto",
+      "russian": "билет (в Латинской Америке)",
+      "transcription": "боле́то",
+      "level": "A2",
+      "tags": [
+        "транспорт",
+        "покупки"
+      ],
+      "example_spanish": "Compro un boleto para el metro.",
+      "example_russian": "Я покупаю билет на метро.",
+      "note": "В Испании чаще используется 'billete', в Латинской Америке — 'boleto'",
+      "priority": 7
+    },
+    {
+      "id": "tarjeta_de_transporte",
+      "type": "phrase",
+      "spanish": "tarjeta de transporte",
+      "russian": "транспортная карта",
+      "transcription": "тархе́та де транспорте",
+      "level": "A2",
+      "tags": [
+        "транспорт",
+        "город"
+      ],
+      "example_spanish": "Recargo mi tarjeta de transporte cada mes.",
+      "example_russian": "Я пополняю свою транспортную карту каждый месяц.",
+      "priority": 8
+    },
+    {
+      "id": "peaton",
+      "type": "word",
+      "spanish": "peatón",
+      "russian": "пешеход",
+      "transcription": "пэато́н",
+      "level": "A2",
+      "tags": [
+        "город",
+        "безопасность"
+      ],
+      "example_spanish": "Los peatones deben usar el paso de cebra.",
+      "example_russian": "Пешеходы должны использовать пешеходный переход.",
+      "priority": 7
+    },
+    {
+      "id": "paso_de_cebra",
+      "type": "phrase",
+      "spanish": "paso de cebra",
+      "russian": "пешеходный переход («зебра»)",
+      "transcription": "па́со де се́бра",
+      "level": "A2",
+      "tags": [
+        "город",
+        "безопасность"
+      ],
+      "example_spanish": "Espera a que los coches se detengan en el paso de cebra.",
+      "example_russian": "Подожди, пока машины остановятся на пешеходном переходе.",
+      "priority": 8
+    },
+    {
+      "id": "conductor",
+      "type": "word",
+      "spanish": "conductor",
+      "russian": "водитель",
+      "transcription": "кондукто́р",
+      "level": "A2",
+      "tags": [
+        "транспорт",
+        "профессии"
+      ],
+      "example_spanish": "El conductor del autobús es amable.",
+      "example_russian": "Водитель автобуса вежливый.",
+      "priority": 7
+    },
+    {
+      "id": "retraso",
+      "type": "word",
+      "spanish": "retraso",
+      "russian": "опоздание / задержка",
+      "transcription": "рэтра́со",
+      "level": "A2",
+      "tags": [
+        "транспорт",
+        "проблемы"
+      ],
+      "example_spanish": "El tren tiene un retraso de 20 minutos.",
+      "example_russian": "У поезда задержка 20 минут.",
+      "priority": 7
+    },
+    {
+      "id": "horario",
+      "type": "word",
+      "spanish": "horario",
+      "russian": "расписание",
+      "transcription": "орар́ио",
+      "level": "A2",
+      "tags": [
+        "транспорт",
+        "планирование"
+      ],
+      "example_spanish": "Mira el horario de los autobuses.",
+      "example_russian": "Посмотри расписание автобусов.",
+      "priority": 8
+    },
+    {
+      "id": "transbordo",
+      "type": "word",
+      "spanish": "transbordo",
+      "russian": "пересадка",
+      "transcription": "трансбо́рдо",
+      "level": "A2",
+      "tags": [
+        "транспорт",
+        "путешествия"
+      ],
+      "example_spanish": "Necesito hacer un transbordo en la estación Atocha.",
+      "example_russian": "Мне нужно сделать пересадку на станции Аточа.",
+      "priority": 7
+    },
+    {
+      "id": "andén",
+      "type": "word",
+      "spanish": "andén",
+      "russian": "перрон",
+      "transcription": "андэ́н",
+      "level": "A2",
+      "tags": [
+        "транспорт",
+        "вокзал"
+      ],
+      "example_spanish": "El tren para en el andén número 3.",
+      "example_russian": "Поезд останавливается на перроне номер 3.",
+      "priority": 7
+    },
+    {
+      "id": "tren",
+      "type": "word",
+      "spanish": "tren",
+      "russian": "поезд",
+      "transcription": "трэн",
+      "level": "A2",
+      "tags": [
+        "транспорт",
+        "путешествия"
+      ],
+      "example_spanish": "Voy a Barcelona en tren de alta velocidad.",
+      "example_russian": "Я еду в Барселону на скоростном поезде.",
+      "priority": 8
+    },
+    {
+      "id": "autocar",
+      "type": "word",
+      "spanish": "autocar",
+      "russian": "автобус дальнего следования",
+      "transcription": "ауто́кар",
+      "level": "B1",
+      "tags": [
+        "транспорт",
+        "путешествия"
+      ],
+      "example_spanish": "Reservé un autocar para ir a Sevilla.",
+      "example_russian": "Я забронировал автобус дальнего следования, чтобы поехать в Севилью.",
+      "priority": 6
+    },
+    {
+      "id": "tráfico",
+      "type": "word",
+      "spanish": "tráfico",
+      "russian": "движение / пробка",
+      "transcription": "тра́фико",
+      "level": "B1",
+      "tags": [
+        "транспорт",
+        "город"
+      ],
+      "example_spanish": "Hay mucho tráfico a las ocho de la mañana.",
+      "example_russian": "В восемь утра сильная пробка.",
+      "priority": 7
+    },
+    {
+      "id": "atascado",
+      "type": "word",
+      "spanish": "atascado",
+      "russian": "застрявший в пробке",
+      "transcription": "атаска́до",
+      "level": "B1",
+      "tags": [
+        "транспорт",
+        "проблемы"
+      ],
+      "example_spanish": "Estoy atascado en el tráfico desde hace una hora.",
+      "example_russian": "Я стою в пробке уже час.",
+      "grammar_note": "Причастие от глагола atascar (застревать)",
+      "priority": 7
+    },
+    {
+      "id": "peatonal",
+      "type": "word",
+      "spanish": "peatonal",
+      "russian": "пешеходная (зона)",
+      "transcription": "пэатона́ль",
+      "level": "B1",
+      "tags": [
+        "город",
+        "планирование"
+      ],
+      "example_spanish": "El centro histórico es zona peatonal.",
+      "example_russian": "Исторический центр — пешеходная зона.",
+      "priority": 6
+    },
+    {
+      "id": "cruce_de_calles",
+      "type": "phrase",
+      "spanish": "cruce de calles",
+      "russian": "пересечение улиц",
+      "transcription": "кру́се де ка́льес",
+      "level": "B1",
+      "tags": [
+        "город",
+        "ориентирование"
+      ],
+      "example_spanish": "Nos encontramos en el cruce de calles Alcalá y Gran Vía.",
+      "example_russian": "Мы встречаемся на пересечении улиц Алькала и Гран-Виа.",
+      "priority": 7
+    },
+    {
+      "id": "desviación",
+      "type": "word",
+      "spanish": "desviación",
+      "russian": "объезд / отклонение от маршрута",
+      "transcription": "дэсвиасьо́н",
+      "level": "B1",
+      "tags": [
+        "транспорт",
+        "навигация"
+      ],
+      "example_spanish": "Hay una desviación por obras en la carretera.",
+      "example_russian": "Из-за дорожных работ предусмотрен объезд.",
+      "priority": 6
+    },
+    {
+      "id": "sentido_único",
+      "type": "phrase",
+      "spanish": "sentido único",
+      "russian": "одностороннее движение",
+      "transcription": "сéнтидо у́нико",
+      "level": "B1",
+      "tags": [
+        "транспорт",
+        "правила"
+      ],
+      "example_spanish": "Esta calle es de sentido único hacia la derecha.",
+      "example_russian": "Эта улица с односторонним движением направо.",
+      "priority": 6
+    },
+    {
+      "id": "rotonda",
+      "type": "word",
+      "spanish": "rotonda",
+      "russian": "круговой перекрёсток",
+      "transcription": "рото́нда",
+      "level": "B1",
+      "tags": [
+        "транспорт",
+        "город"
+      ],
+      "example_spanish": "Toma la segunda salida en la rotonda.",
+      "example_russian": "Съезжай со второго съезда на круговом перекрёстке.",
+      "priority": 7
+    },
+    {
+      "id": "zona_azul",
+      "type": "phrase",
+      "spanish": "zona azul",
+      "russian": "парковка с оплатой (букв. «голубая зона»)",
+      "transcription": "со́на асу́ль",
+      "level": "B1",
+      "tags": [
+        "транспорт",
+        "город"
+      ],
+      "example_spanish": "Debes pagar en la zona azul antes de las 14:00.",
+      "example_russian": "Ты должен оплатить парковку в «голубой зоне» до 14:00.",
+      "priority": 6
+    },
+    {
+      "id": "transporte_público",
+      "type": "phrase",
+      "spanish": "transporte público",
+      "russian": "общественный транспорт",
+      "transcription": "транспорте пу́блико",
+      "level": "B1",
+      "tags": [
+        "транспорт",
+        "город"
+      ],
+      "example_spanish": "El transporte público en Madrid es eficiente.",
+      "example_russian": "Общественный транспорт в Мадриде эффективный.",
+      "priority": 8
+    },
+    [
+      {
+        "id": "pan",
+        "type": "word",
+        "spanish": "pan",
+        "russian": "хлеб",
+        "transcription": "пан",
+        "level": "A1",
+        "tags": [
+          "еда",
+          "базовые_продукты"
+        ],
+        "example_spanish": "Como pan con mantequilla por la mañana.",
+        "example_russian": "Я ем хлеб с маслом по утрам.",
+        "priority": 10
+      },
+      {
+        "id": "agua",
+        "type": "word",
+        "spanish": "agua",
+        "russian": "вода",
+        "transcription": "а́гуа",
+        "level": "A1",
+        "tags": [
+          "напитки",
+          "базовые_продукты"
+        ],
+        "example_spanish": "Necesito un vaso de agua fría.",
+        "example_russian": "Мне нужен стакан холодной воды.",
+        "priority": 10
+      },
+      {
+        "id": "leche",
+        "type": "word",
+        "spanish": "leche",
+        "russian": "молоко",
+        "transcription": "лэ́че",
+        "level": "A1",
+        "tags": [
+          "напитки",
+          "базовые_продукты"
+        ],
+        "example_spanish": "Tomo leche con cereales.",
+        "example_russian": "Я пью молоко с хлопьями.",
+        "priority": 9
+      },
+      {
+        "id": "cafe",
+        "type": "word",
+        "spanish": "café",
+        "russian": "кофе",
+        "transcription": "кафэ́",
+        "level": "A1",
+        "tags": [
+          "напитки",
+          "ресторан"
+        ],
+        "example_spanish": "Me gusta tomar café por la mañana.",
+        "example_russian": "Мне нравится пить кофе по утрам.",
+        "priority": 10
+      },
+      {
+        "id": "te",
+        "type": "word",
+        "spanish": "té",
+        "russian": "чай",
+        "transcription": "тэ",
+        "level": "A1",
+        "tags": [
+          "напитки",
+          "базовые_продукты"
+        ],
+        "example_spanish": "Tomo té con limón.",
+        "example_russian": "Я пью чай с лимоном.",
+        "priority": 9
+      },
+      {
+        "id": "manzana",
+        "type": "word",
+        "spanish": "manzana",
+        "russian": "яблоко",
+        "transcription": "манса́на",
+        "level": "A1",
+        "tags": [
+          "еда",
+          "фрукты"
+        ],
+        "example_spanish": "Como una manzana cada día.",
+        "example_russian": "Я ем яблоко каждый день.",
+        "priority": 10
+      },
+      {
+        "id": "plátano",
+        "type": "word",
+        "spanish": "plátano",
+        "russian": "банан",
+        "transcription": "пла́тано",
+        "level": "A1",
+        "tags": [
+          "еда",
+          "фрукты"
+        ],
+        "example_spanish": "El plátano es dulce y saludable.",
+        "example_russian": "Банан сладкий и полезный.",
+        "priority": 9
+      },
+      {
+        "id": "arroz",
+        "type": "word",
+        "spanish": "arroz",
+        "russian": "рис",
+        "transcription": "арро́с",
+        "level": "A1",
+        "tags": [
+          "еда",
+          "базовые_продукты"
+        ],
+        "example_spanish": "El arroz con pollo es mi plato favorito.",
+        "example_russian": "Рис с курицей — моё любимое блюдо.",
+        "priority": 9
+      },
+      {
+        "id": "pollo",
+        "type": "word",
+        "spanish": "pollo",
+        "russian": "курица",
+        "transcription": "по́льо",
+        "level": "A1",
+        "tags": [
+          "еда",
+          "мясо"
+        ],
+        "example_spanish": "Hoy comemos pollo asado.",
+        "example_russian": "Сегодня мы едим жареную курицу.",
+        "priority": 10
+      },
+      {
+        "id": "pescado",
+        "type": "word",
+        "spanish": "pescado",
+        "russian": "рыба",
+        "transcription": "пэска́до",
+        "level": "A1",
+        "tags": [
+          "еда",
+          "морепродукты"
+        ],
+        "example_spanish": "El pescado es bueno para la salud.",
+        "example_russian": "Рыба полезна для здоровья.",
+        "priority": 8
+      },
+      {
+        "id": "queso",
+        "type": "word",
+        "spanish": "queso",
+        "russian": "сыр",
+        "transcription": "кэ́со",
+        "level": "A1",
+        "tags": [
+          "еда",
+          "молочные"
+        ],
+        "example_spanish": "Me gusta el queso manchego.",
+        "example_russian": "Мне нравится сыр манчего.",
+        "priority": 9
+      },
+      {
+        "id": "huevos",
+        "type": "word",
+        "spanish": "huevos",
+        "russian": "яйца",
+        "transcription": "уэ́вос",
+        "level": "A1",
+        "tags": [
+          "еда",
+          "базовые_продукты"
+        ],
+        "example_spanish": "Desayuno huevos revueltos.",
+        "example_russian": "На завтрак я ем яичницу.",
+        "priority": 9
+      },
+      {
+        "id": "comer",
+        "type": "word",
+        "spanish": "comer",
+        "russian": "есть (глагол)",
+        "transcription": "комэ́р",
+        "level": "A1",
+        "tags": [
+          "глаголы",
+          "еда"
+        ],
+        "example_spanish": "¿Qué quieres comer hoy?",
+        "example_russian": "Что ты хочешь есть сегодня?",
+        "grammar_note": "Правильный глагол на -er: como, comes, come, comemos, coméis, comen",
+        "priority": 10
+      },
+      {
+        "id": "beber",
+        "type": "word",
+        "spanish": "beber",
+        "russian": "пить",
+        "transcription": "бэбэ́р",
+        "level": "A1",
+        "tags": [
+          "глаголы",
+          "напитки"
+        ],
+        "example_spanish": "Bebo agua después de correr.",
+        "example_russian": "Я пью воду после бега.",
+        "grammar_note": "В Латинской Америке чаще используется 'tomar' вместо 'beber'",
+        "priority": 9
+      },
+      {
+        "id": "hambre",
+        "type": "word",
+        "spanish": "hambre",
+        "russian": "голод",
+        "transcription": "а́мбре",
+        "level": "A1",
+        "tags": [
+          "еда",
+          "чувства"
+        ],
+        "example_spanish": "Tengo hambre. ¿Vamos a comer?",
+        "example_russian": "Я голоден. Пойдём поесть?",
+        "grammar_note": "Всегда с глаголом 'tener': tengo hambre (не 'estoy hambre')",
+        "priority": 10
+      },
+      {
+        "id": "sed",
+        "type": "word",
+        "spanish": "sed",
+        "russian": "жажда",
+        "transcription": "сэд",
+        "level": "A1",
+        "tags": [
+          "напитки",
+          "чувства"
+        ],
+        "example_spanish": "Tengo mucha sed. Necesito agua.",
+        "example_russian": "У меня сильная жажда. Мне нужна вода.",
+        "grammar_note": "Всегда с глаголом 'tener': tengo sed",
+        "priority": 9
+      },
+      {
+        "id": "restaurante",
+        "type": "word",
+        "spanish": "restaurante",
+        "russian": "ресторан",
+        "transcription": "рэстаура́нте",
+        "level": "A1",
+        "tags": [
+          "ресторан",
+          "город"
+        ],
+        "example_spanish": "Cenamos en un restaurante italiano.",
+        "example_russian": "Мы ужинаем в итальянском ресторане.",
+        "priority": 9
+      },
+      {
+        "id": "mesa",
+        "type": "word",
+        "spanish": "mesa",
+        "russian": "стол",
+        "transcription": "мэ́са",
+        "level": "A1",
+        "tags": [
+          "ресторан",
+          "дом"
+        ],
+        "example_spanish": "¿Podemos sentarnos en esa mesa?",
+        "example_russian": "Можем мы сесть за тот стол?",
+        "priority": 8
+      },
+      {
+        "id": "carta",
+        "type": "word",
+        "spanish": "carta",
+        "russian": "меню (в ресторане)",
+        "transcription": "ка́рта",
+        "level": "A1",
+        "tags": [
+          "ресторан",
+          "услуги"
+        ],
+        "example_spanish": "¿Me da la carta, por favor?",
+        "example_russian": "Дайте мне меню, пожалуйста?",
+        "priority": 9
+      },
+      {
+        "id": "cuenta",
+        "type": "word",
+        "spanish": "cuenta",
+        "russian": "счёт (в ресторане)",
+        "transcription": "куэ́нта",
+        "level": "A1",
+        "tags": [
+          "ресторан",
+          "услуги"
+        ],
+        "example_spanish": "¿Nos trae la cuenta, por favor?",
+        "example_russian": "Принесите нам счёт, пожалуйста?",
+        "priority": 9
+      },
+      {
+        "id": "quiero",
+        "type": "phrase",
+        "spanish": "quiero",
+        "russian": "я хочу",
+        "transcription": "кьэ́ро",
+        "level": "A1",
+        "tags": [
+          "глаголы",
+          "ресторан"
+        ],
+        "example_spanish": "Quiero una ensalada, por favor.",
+        "example_russian": "Я хочу салат, пожалуйста.",
+        "grammar_note": "От глагола querer (неправильный): yo quiero, tú quieres, él quiere",
+        "priority": 10
+      },
+      {
+        "id": "gracias",
+        "type": "word",
+        "spanish": "gracias",
+        "russian": "спасибо",
+        "transcription": "гра́сьяс",
+        "level": "A1",
+        "tags": [
+          "вежливость",
+          "ресторан"
+        ],
+        "example_spanish": "—Gracias por la comida. —De nada.",
+        "example_russian": "—Спасибо за еду. —Пожалуйста.",
+        "priority": 10
+      },
+      {
+        "id": "por_favor",
+        "type": "phrase",
+        "spanish": "por favor",
+        "russian": "пожалуйста",
+        "transcription": "пор фа́вор",
+        "level": "A1",
+        "tags": [
+          "вежливость",
+          "ресторан"
+        ],
+        "example_spanish": "Un café con leche, por favor.",
+        "example_russian": "Кофе с молоком, пожалуйста.",
+        "priority": 10
+      },
+      {
+        "id": "buen_provecho",
+        "type": "phrase",
+        "spanish": "¡buen provecho!",
+        "russian": "приятного аппетита!",
+        "transcription": "буэн провэ́чо",
+        "level": "A1",
+        "tags": [
+          "вежливость",
+          "еда"
+        ],
+        "example_spanish": "—Voy a comer. —¡Buen provecho!",
+        "example_russian": "—Я собираюсь есть. —Приятного аппетита!",
+        "priority": 8
+      },
+      {
+        "id": "delicioso",
+        "type": "word",
+        "spanish": "delicioso",
+        "russian": "вкусный",
+        "transcription": "делисьо́со",
+        "level": "A1",
+        "tags": [
+          "еда",
+          "прилагательные"
+        ],
+        "example_spanish": "¡Esta paella está deliciosa!",
+        "example_russian": "Эта паэлья очень вкусная!",
+        "priority": 9
+      },
+      {
+        "id": "tomate",
+        "type": "word",
+        "spanish": "tomate",
+        "russian": "помидор",
+        "transcription": "тома́те",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "овощи"
+        ],
+        "example_spanish": "La ensalada lleva tomate y lechuga.",
+        "example_russian": "В салате есть помидор и салат.",
+        "priority": 8
+      },
+      {
+        "id": "cebolla",
+        "type": "word",
+        "spanish": "cebolla",
+        "russian": "лук",
+        "transcription": "сэбо́лья",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "овощи"
+        ],
+        "example_spanish": "No me gusta la cebolla cruda.",
+        "example_russian": "Мне не нравится сырой лук.",
+        "priority": 7
+      },
+      {
+        "id": "ajo",
+        "type": "word",
+        "spanish": "ajo",
+        "russian": "чеснок",
+        "transcription": "а́хо",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "приправы"
+        ],
+        "example_spanish": "Este plato tiene mucho ajo.",
+        "example_russian": "В этом блюде много чеснока.",
+        "priority": 7
+      },
+      {
+        "id": "sal",
+        "type": "word",
+        "spanish": "sal",
+        "russian": "соль",
+        "transcription": "саль",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "приправы"
+        ],
+        "example_spanish": "¿Me pasas la sal, por favor?",
+        "example_russian": "Передай мне соль, пожалуйста?",
+        "priority": 8
+      },
+      {
+        "id": "pimienta",
+        "type": "word",
+        "spanish": "pimienta",
+        "russian": "перец",
+        "transcription": "пимьэ́нта",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "приправы"
+        ],
+        "example_spanish": "Me gusta la carne con pimienta negra.",
+        "example_russian": "Мне нравится мясо с чёрным перцем.",
+        "priority": 7
+      },
+      {
+        "id": "azucar",
+        "type": "word",
+        "spanish": "azúcar",
+        "russian": "сахар",
+        "transcription": "асу́кар",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "сладости"
+        ],
+        "example_spanish": "¿Quieres azúcar en el café?",
+        "example_russian": "Хочешь сахар в кофе?",
+        "priority": 8
+      },
+      {
+        "id": "postre",
+        "type": "word",
+        "spanish": "postre",
+        "russian": "десерт",
+        "transcription": "пострэ",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "ресторан"
+        ],
+        "example_spanish": "De postre tomo flan con caramelo.",
+        "example_russian": "На десерт я беру флан с карамелью.",
+        "priority": 8
+      },
+      {
+        "id": "ensalada",
+        "type": "word",
+        "spanish": "ensalada",
+        "russian": "салат",
+        "transcription": "энсала́да",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "блюда"
+        ],
+        "example_spanish": "Pido una ensalada César para empezar.",
+        "example_russian": "Я заказываю салат Цезарь для начала.",
+        "priority": 8
+      },
+      {
+        "id": "sopa",
+        "type": "word",
+        "spanish": "sopa",
+        "russian": "суп",
+        "transcription": "со́па",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "блюда"
+        ],
+        "example_spanish": "La sopa de verduras está caliente.",
+        "example_russian": "Овощной суп горячий.",
+        "priority": 7
+      },
+      {
+        "id": "carne",
+        "type": "word",
+        "spanish": "carne",
+        "russian": "мясо",
+        "transcription": "ка́рне",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "блюда"
+        ],
+        "example_spanish": "Prefiero la carne a la pescado.",
+        "example_russian": "Я предпочитаю мясо рыбе.",
+        "priority": 9
+      },
+      {
+        "id": "pasta",
+        "type": "word",
+        "spanish": "pasta",
+        "russian": "макароны / паста",
+        "transcription": "па́ста",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "блюда"
+        ],
+        "example_spanish": "La pasta con salsa de tomate es sencilla y rica.",
+        "example_russian": "Паста с томатным соусом простая и вкусная.",
+        "priority": 8
+      },
+      {
+        "id": "aceite",
+        "type": "word",
+        "spanish": "aceite",
+        "russian": "масло (растительное)",
+        "transcription": "асэ́йте",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "ингредиенты"
+        ],
+        "example_spanish": "El aceite de oliva es típico en España.",
+        "example_russian": "Оливковое масло типично для Испании.",
+        "priority": 7
+      },
+      {
+        "id": "vinagre",
+        "type": "word",
+        "spanish": "vinagre",
+        "russian": "уксус",
+        "transcription": "вина́гре",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "ингредиенты"
+        ],
+        "example_spanish": "La ensalada lleva aceite y vinagre.",
+        "example_russian": "Салат заправлен маслом и уксусом.",
+        "priority": 6
+      },
+      {
+        "id": "huevo_frito",
+        "type": "phrase",
+        "spanish": "huevo frito",
+        "russian": "яичница (жареное яйцо)",
+        "transcription": "уэ́во фри́то",
+        "level": "A2",
+        "tags": [
+          "еда",
+          "блюда"
+        ],
+        "example_spanish": "Desayuno huevo frito con pan tostado.",
+        "example_russian": "На завтрак я ем яичницу с тостами.",
+        "priority": 8
+      },
+      {
+        "id": "menu_del_dia",
+        "type": "phrase",
+        "spanish": "menú del día",
+        "russian": "меню дня (фиксированный обед в Испании)",
+        "transcription": "мэну́ дэль ди́а",
+        "level": "A2",
+        "tags": [
+          "ресторан",
+          "культура"
+        ],
+        "example_spanish": "El menú del día incluye primer plato, segundo y postre.",
+        "example_russian": "Меню дня включает первое блюдо, второе и десерт.",
+        "priority": 8
+      },
+      {
+        "id": "reserva",
+        "type": "word",
+        "spanish": "reserva",
+        "russian": "бронирование (столика)",
+        "transcription": "рэсе́рва",
+        "level": "B1",
+        "tags": [
+          "ресторан",
+          "услуги"
+        ],
+        "example_spanish": "Hice una reserva para cuatro personas a las 20:00.",
+        "example_russian": "Я сделал бронирование на четверых на 20:00.",
+        "priority": 7
+      },
+      {
+        "id": "camarero",
+        "type": "word",
+        "spanish": "camarero",
+        "russian": "официант",
+        "transcription": "камарэ́ро",
+        "level": "B1",
+        "tags": [
+          "ресторан",
+          "профессии"
+        ],
+        "example_spanish": "El camarero nos recomendó el pescado del día.",
+        "example_russian": "Официант порекомендовал нам рыбу дня.",
+        "priority": 8
+      },
+      {
+        "id": "propina",
+        "type": "word",
+        "spanish": "propina",
+        "russian": "чаевые",
+        "transcription": "пропи́на",
+        "level": "B1",
+        "tags": [
+          "ресторан",
+          "культура"
+        ],
+        "example_spanish": "En España no es obligatorio dejar propina, pero se agradece.",
+        "example_russian": "В Испании не обязательно оставлять чаевые, но это приветствуется.",
+        "priority": 7
+      },
+      {
+        "id": "especias",
+        "type": "word",
+        "spanish": "especias",
+        "russian": "специи",
+        "transcription": "эспэ́сьяс",
+        "level": "B1",
+        "tags": [
+          "еда",
+          "приправы"
+        ],
+        "example_spanish": "Este curry tiene muchas especias exóticas.",
+        "example_russian": "В этом карри много экзотических специй.",
+        "priority": 7
+      },
+      {
+        "id": "sabor",
+        "type": "word",
+        "spanish": "sabor",
+        "russian": "вкус (буквально)",
+        "transcription": "сабо́р",
+        "level": "B1",
+        "tags": [
+          "еда",
+          "описание"
+        ],
+        "example_spanish": "Este plato tiene un sabor intenso a ajo y hierbas.",
+        "example_russian": "У этого блюда насыщенный вкус чеснока и трав.",
+        "priority": 8
+      },
+      {
+        "id": "picante",
+        "type": "word",
+        "spanish": "picante",
+        "russian": "острый (о еде)",
+        "transcription": "пикан́те",
+        "level": "B1",
+        "tags": [
+          "еда",
+          "описание"
+        ],
+        "example_spanish": "¿Es picante esta salsa? No tolero el picante.",
+        "example_russian": "Этот соус острый? Я не переношу острое.",
+        "priority": 8
+      },
+      {
+        "id": "sabroso",
+        "type": "word",
+        "spanish": "sabroso",
+        "russian": "вкусный, ароматный",
+        "transcription": "сабро́со",
+        "level": "B1",
+        "tags": [
+          "еда",
+          "прилагательные"
+        ],
+        "example_spanish": "La paella valenciana es muy sabrosa.",
+        "example_russian": "Валенсийская паэлья очень вкусная.",
+        "priority": 8
+      },
+      {
+        "id": "dietetico",
+        "type": "word",
+        "spanish": "dietético",
+        "russian": "диетический",
+        "transcription": "диэтэ́тико",
+        "level": "B1",
+        "tags": [
+          "еда",
+          "здоровье"
+        ],
+        "example_spanish": "Busco opciones dietéticas en el menú.",
+        "example_russian": "Я ищу диетические варианты в меню.",
+        "priority": 7
+      },
+      {
+        "id": "vegetariano",
+        "type": "word",
+        "spanish": "vegetariano",
+        "russian": "вегетарианский",
+        "transcription": "вэхетариа́но",
+        "level": "B1",
+        "tags": [
+          "еда",
+          "диета"
+        ],
+        "example_spanish": "Soy vegetariano, ¿tienen opciones sin carne?",
+        "example_russian": "Я вегетарианец, у вас есть варианты без мяса?",
+        "priority": 8
+      },
+      {
+        "id": "alergia",
+        "type": "word",
+        "spanish": "alergia",
+        "russian": "аллергия",
+        "transcription": "алэ́рхия",
+        "level": "B1",
+        "tags": [
+          "еда",
+          "здоровье"
+        ],
+        "example_spanish": "Tengo alergia a los frutos secos. ¿Este plato los lleva?",
+        "example_russian": "У меня аллергия на орехи. В этом блюде они есть?",
+        "priority": 9
+      }
+    ]
+  ],
+  {
+    "id": "a",
+    "type": "letter",
+    "spanish": "a",
+    "russian": "гласная А",
+    "transcription": "а",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "casa",
+    "example_russian": "дом",
+    "priority": 1
+  },
+  {
+    "id": "e",
+    "type": "letter",
+    "spanish": "e",
+    "russian": "гласная Э",
+    "transcription": "э",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "mesa",
+    "example_russian": "стол",
+    "priority": 2
+  },
+  {
+    "id": "i",
+    "type": "letter",
+    "spanish": "i",
+    "russian": "гласная И",
+    "transcription": "и",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "sí",
+    "example_russian": "да",
+    "priority": 3
+  },
+  {
+    "id": "o",
+    "type": "letter",
+    "spanish": "o",
+    "russian": "гласная О",
+    "transcription": "о",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "no",
+    "example_russian": "нет",
+    "priority": 4
+  },
+  {
+    "id": "u",
+    "type": "letter",
+    "spanish": "u",
+    "russian": "гласная У",
+    "transcription": "у",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "luz",
+    "example_russian": "свет",
+    "priority": 5
+  },
+  {
+    "id": "b",
+    "type": "letter",
+    "spanish": "b",
+    "russian": "буква Б/В",
+    "transcription": "б/в",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "bebé",
+    "example_russian": "младенец",
+    "priority": 6
+  },
+  {
+    "id": "c",
+    "type": "letter",
+    "spanish": "c",
+    "russian": "буква К/С",
+    "transcription": "к/с",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "casa",
+    "example_russian": "дом",
+    "priority": 7
+  },
+  {
+    "id": "d",
+    "type": "letter",
+    "spanish": "d",
+    "russian": "буква Д",
+    "transcription": "д",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "día",
+    "example_russian": "день",
+    "priority": 8
+  },
+  {
+    "id": "g",
+    "type": "letter",
+    "spanish": "g",
+    "russian": "буква Г",
+    "transcription": "г/х",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "gato",
+    "example_russian": "кот",
+    "priority": 9
+  },
+  {
+    "id": "h",
+    "type": "letter",
+    "spanish": "h",
+    "russian": "буква Х (немая)",
+    "transcription": "—",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "hola",
+    "example_russian": "привет (h немая)",
+    "priority": 10
+  },
+  {
+    "id": "j",
+    "type": "letter",
+    "spanish": "j",
+    "russian": "буква Х",
+    "transcription": "х",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "jamón",
+    "example_russian": "ветчина",
+    "priority": 11
+  },
+  {
+    "id": "card",
+    "type": "letter",
+    "spanish": "ñ",
+    "russian": "буква НЬ",
+    "transcription": "нь",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "niño",
+    "example_russian": "ребёнок",
+    "priority": 12
+  },
+  {
+    "id": "r",
+    "type": "letter",
+    "spanish": "r",
+    "russian": "буква Р (одинарная)",
+    "transcription": "р",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "pero",
+    "example_russian": "но",
+    "priority": 13
+  },
+  {
+    "id": "rr",
+    "type": "letter",
+    "spanish": "rr",
+    "russian": "буква РР (двойная)",
+    "transcription": "рр",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "perro",
+    "example_russian": "собака",
+    "priority": 14
+  },
+  {
+    "id": "ll",
+    "type": "letter",
+    "spanish": "ll",
+    "russian": "буква Й/Ль",
+    "transcription": "й/ль",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "llave",
+    "example_russian": "ключ",
+    "priority": 15
+  },
+  {
+    "id": "v",
+    "type": "letter",
+    "spanish": "v",
+    "russian": "буква Б/В",
+    "transcription": "б/в",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "vino",
+    "example_russian": "вино",
+    "priority": 16
+  },
+  {
+    "id": "y",
+    "type": "letter",
+    "spanish": "y",
+    "russian": "буква Й/И",
+    "transcription": "й/и",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "yo",
+    "example_russian": "я",
+    "priority": 17
+  },
+  {
+    "id": "card_1",
+    "type": "rule",
+    "spanish": "´",
+    "russian": "знак ударения (tilde)",
+    "transcription": "тильде",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "teléfono",
+    "example_russian": "телефон",
+    "priority": 18
+  },
+  {
+    "id": "alfabeto",
+    "type": "fact",
+    "spanish": "Alfabeto",
+    "russian": "испанский алфавит",
+    "transcription": "альфабе́то",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, ñ, o, p, q, r, s, t, u, v, w, x, y, z",
+    "example_russian": "а, б, в, г, д, э, ф, х, и, х, к, л, м, н, нь, о, п, к, р, с, т, у, в, в, кс, й, з",
+    "priority": 19
+  },
+  {
+    "id": "lectura",
+    "type": "rule",
+    "spanish": "Lectura",
+    "russian": "чтение",
+    "transcription": "лекту́ра",
+    "level": "A1",
+    "tags": [
+      "фонетика"
+    ],
+    "example_spanish": "mañana",
+    "example_russian": "завтра / утро",
+    "priority": 20
+  },
+  {
+    "id": "hola_1",
+    "type": "word",
+    "spanish": "hola",
+    "russian": "привет",
+    "transcription": "о́ла",
+    "level": "A1",
+    "tags": [
+      "приветствия"
+    ],
+    "example_spanish": "¡Hola! ¿Cómo estás?",
+    "example_russian": "Привет! Как дела?",
+    "priority": 21
+  },
+  {
+    "id": "buenos_das",
+    "type": "phrase",
+    "spanish": "buenos días",
+    "russian": "доброе утро",
+    "transcription": "буэ́нос ди́ас",
+    "level": "A1",
+    "tags": [
+      "приветствия"
+    ],
+    "example_spanish": "¡Buenos días! ¿Qué tal?",
+    "example_russian": "Доброе утро! Как дела?",
+    "priority": 22
+  },
+  {
+    "id": "buenas_tardes",
+    "type": "phrase",
+    "spanish": "buenas tardes",
+    "russian": "добрый день",
+    "transcription": "буэ́нас та́рдес",
+    "level": "A1",
+    "tags": [
+      "приветствия"
+    ],
+    "example_spanish": "¡Buenas tardes! ¿Cómo está usted?",
+    "example_russian": "Добрый день! Как вы?",
+    "priority": 23
+  },
+  {
+    "id": "buenas_noches",
+    "type": "phrase",
+    "spanish": "buenas noches",
+    "russian": "добрый вечер / спокойной ночи",
+    "transcription": "буэ́нас но́чес",
+    "level": "A1",
+    "tags": [
+      "приветствия"
+    ],
+    "example_spanish": "¡Buenas noches! Hasta mañana.",
+    "example_russian": "Добрый вечер! До завтра.",
+    "priority": 24
+  },
+  {
+    "id": "adis",
+    "type": "word",
+    "spanish": "adiós",
+    "russian": "до свидания",
+    "transcription": "адио́с",
+    "level": "A1",
+    "tags": [
+      "приветствия"
+    ],
+    "example_spanish": "¡Adiós! Gracias por todo.",
+    "example_russian": "До свидания! Спасибо за всё.",
+    "priority": 25
+  },
+  {
+    "id": "hasta_luego",
+    "type": "phrase",
+    "spanish": "hasta luego",
+    "russian": "до скорого",
+    "transcription": "а́ста луэ́го",
+    "level": "A1",
+    "tags": [
+      "приветствия"
+    ],
+    "example_spanish": "Voy al supermercado. ¡Hasta luego!",
+    "example_russian": "Иду в супермаркет. До скорого!",
+    "priority": 26
+  },
+  {
+    "id": "por_favor_1",
+    "type": "phrase",
+    "spanish": "por favor",
+    "russian": "пожалуйста",
+    "transcription": "пор фаво́р",
+    "level": "A1",
+    "tags": [
+      "приветствия"
+    ],
+    "example_spanish": "Un café, por favor.",
+    "example_russian": "Один кофе, пожалуйста.",
+    "priority": 27
+  },
+  {
+    "id": "gracias_1",
+    "type": "word",
+    "spanish": "gracias",
+    "russian": "спасибо",
+    "transcription": "гра́сиас",
+    "level": "A1",
+    "tags": [
+      "приветствия"
+    ],
+    "example_spanish": "¡Gracias! Eres muy amable.",
+    "example_russian": "Спасибо! Ты очень добрый.",
+    "priority": 28
+  },
+  {
+    "id": "de_nada",
+    "type": "phrase",
+    "spanish": "de nada",
+    "russian": "пожалуйста (в ответ на спасибо)",
+    "transcription": "де на́да",
+    "level": "A1",
+    "tags": [
+      "приветствия"
+    ],
+    "example_spanish": "—Gracias. —De nada.",
+    "example_russian": "—Спасибо. —Пожалуйста.",
+    "priority": 29
+  },
+  {
+    "id": "cmo_ests",
+    "type": "phrase",
+    "spanish": "¿cómo estás?",
+    "russian": "как ты?",
+    "transcription": "ко́мо эста́с",
+    "level": "A1",
+    "tags": [
+      "приветствия"
+    ],
+    "example_spanish": "¡Hola! ¿Cómo estás hoy?",
+    "example_russian": "Привет! Как ты сегодня?",
+    "priority": 30
+  },
+  {
+    "id": "cero",
+    "type": "word",
+    "spanish": "cero",
+    "russian": "ноль",
+    "transcription": "сэ́ро",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "La temperatura es cero grados.",
+    "example_russian": "Температура ноль градусов.",
+    "priority": 31
+  },
+  {
+    "id": "uno_1",
+    "type": "word",
+    "spanish": "uno",
+    "russian": "один",
+    "transcription": "у́но",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Tengo un libro.",
+    "example_russian": "У меня есть одна книга.",
+    "priority": 32
+  },
+  {
+    "id": "dos_1",
+    "type": "word",
+    "spanish": "dos",
+    "russian": "два",
+    "transcription": "дос",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Dos cafés, por favor.",
+    "example_russian": "Два кофе, пожалуйста.",
+    "priority": 33
+  },
+  {
+    "id": "tres",
+    "type": "word",
+    "spanish": "tres",
+    "russian": "три",
+    "transcription": "трэс",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Tres manzanas.",
+    "example_russian": "Три яблока.",
+    "priority": 34
+  },
+  {
+    "id": "cuatro",
+    "type": "word",
+    "spanish": "cuatro",
+    "russian": "четыре",
+    "transcription": "куа́тро",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Cuatro sillas.",
+    "example_russian": "Четыре стула.",
+    "priority": 35
+  },
+  {
+    "id": "cinco",
+    "type": "word",
+    "spanish": "cinco",
+    "russian": "пять",
+    "transcription": "си́нко",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Cinco minutos.",
+    "example_russian": "Пять минут.",
+    "priority": 36
+  },
+  {
+    "id": "seis",
+    "type": "word",
+    "spanish": "seis",
+    "russian": "шесть",
+    "transcription": "сэйс",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Seis personas.",
+    "example_russian": "Шесть человек.",
+    "priority": 37
+  },
+  {
+    "id": "siete",
+    "type": "word",
+    "spanish": "siete",
+    "russian": "семь",
+    "transcription": "сье́те",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Siete días.",
+    "example_russian": "Семь дней.",
+    "priority": 38
+  },
+  {
+    "id": "ocho",
+    "type": "word",
+    "spanish": "ocho",
+    "russian": "восемь",
+    "transcription": "о́чо",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Ocho horas.",
+    "example_russian": "Восемь часов.",
+    "priority": 39
+  },
+  {
+    "id": "nueve",
+    "type": "word",
+    "spanish": "nueve",
+    "russian": "девять",
+    "transcription": "нуэ́ве",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Nueve euros.",
+    "example_russian": "Девять евро.",
+    "priority": 40
+  },
+  {
+    "id": "diez",
+    "type": "word",
+    "spanish": "diez",
+    "russian": "десять",
+    "transcription": "дьес",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Diez dedos.",
+    "example_russian": "Десять пальцев.",
+    "priority": 41
+  },
+  {
+    "id": "once",
+    "type": "word",
+    "spanish": "once",
+    "russian": "одиннадцать",
+    "transcription": "о́нсэ",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Once años.",
+    "example_russian": "Одиннадцать лет.",
+    "priority": 42
+  },
+  {
+    "id": "doce",
+    "type": "word",
+    "spanish": "doce",
+    "russian": "двенадцать",
+    "transcription": "до́сэ",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Doce meses.",
+    "example_russian": "Двенадцать месяцев.",
+    "priority": 43
+  },
+  {
+    "id": "trece",
+    "type": "word",
+    "spanish": "trece",
+    "russian": "тринадцать",
+    "transcription": "трэ́сэ",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Trece flores.",
+    "example_russian": "Тринадцать цветов.",
+    "priority": 44
+  },
+  {
+    "id": "catorce",
+    "type": "word",
+    "spanish": "catorce",
+    "russian": "четырнадцать",
+    "transcription": "като́рсэ",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Catorce días.",
+    "example_russian": "Четырнадцать дней.",
+    "priority": 45
+  },
+  {
+    "id": "quince",
+    "type": "word",
+    "spanish": "quince",
+    "russian": "пятнадцать",
+    "transcription": "ки́нсэ",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Quince minutos.",
+    "example_russian": "Пятнадцать минут.",
+    "priority": 46
+  },
+  {
+    "id": "diecisis",
+    "type": "word",
+    "spanish": "dieciséis",
+    "russian": "шестнадцать",
+    "transcription": "дьесисэ́йс",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Dieciséis años.",
+    "example_russian": "Шестнадцать лет.",
+    "priority": 47
+  },
+  {
+    "id": "diecisiete",
+    "type": "word",
+    "spanish": "diecisiete",
+    "russian": "семнадцать",
+    "transcription": "дьесисье́те",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Diecisiete libros.",
+    "example_russian": "Семнадцать книг.",
+    "priority": 48
+  },
+  {
+    "id": "dieciocho",
+    "type": "word",
+    "spanish": "dieciocho",
+    "russian": "восемнадцать",
+    "transcription": "дьесьо́чо",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Dieciocho euros.",
+    "example_russian": "Восемнадцать евро.",
+    "priority": 49
+  },
+  {
+    "id": "diecinueve",
+    "type": "word",
+    "spanish": "diecinueve",
+    "russian": "девятнадцать",
+    "transcription": "дьесинуэ́ве",
+    "level": "A1",
+    "tags": [
+      "цифры"
+    ],
+    "example_spanish": "Diecinueve personas.",
+    "example_russian": "Девятнадцать человек.",
+    "priority": 50
+  },
+  {
+    "id": "entrevista",
+    "type": "word",
+    "spanish": "entrevista",
+    "russian": "собеседование",
+    "transcription": "энтрэви́ста",
+    "level": "B1",
+    "tags": ["работа", "карьера"],
+    "example_spanish": "Tengo una entrevista de trabajo mañana.",
+    "example_russian": "У меня завтра собеседование на работу.",
+    "priority": 8
+  },
+  {
+    "id": "curriculum",
+    "type": "word",
+    "spanish": "currículum",
+    "russian": "резюме",
+    "transcription": "ку́ррикулум",
+    "level": "B1",
+    "tags": ["работа", "карьера"],
+    "example_spanish": "Envíe mi currículum a tres empresas.",
+    "example_russian": "Я отправил(а) своё резюме в три компании.",
+    "priority": 8
+  },
+  {
+    "id": "salario",
+    "type": "word",
+    "spanish": "salario",
+    "russian": "зарплата",
+    "transcription": "салар́ио",
+    "level": "B1",
+    "tags": ["работа", "финансы"],
+    "example_spanish": "El salario mensual es de 2000 euros.",
+    "example_russian": "Месячная зарплата составляет 2000 евро.",
+    "priority": 8
+  },
+  {
+    "id": "jubilacion",
+    "type": "word",
+    "spanish": "jubilación",
+    "russian": "пенсия / выход на пенсию",
+    "transcription": "хубиласьо́н",
+    "level": "B1",
+    "tags": ["работа", "жизнь"],
+    "example_spanish": "Mi padre se jubiló el año pasado.",
+    "example_russian": "Мой отец вышел на пенсию в прошлом году.",
+    "priority": 7
+  },
+  {
+    "id": "ascenso",
+    "type": "word",
+    "spanish": "ascenso",
+    "russian": "повышение (по службе)",
+    "transcription": "асэ́нсо",
+    "level": "B1",
+    "tags": ["работа", "карьера"],
+    "example_spanish": "Recibí un ascenso después de dos años.",
+    "example_russian": "Я получил(а) повышение через два года.",
+    "priority": 7
+  },
+  {
+    "id": "despido",
+    "type": "word",
+    "spanish": "despido",
+    "russian": "увольнение",
+    "transcription": "дэспи́до",
+    "level": "B1",
+    "tags": ["работа", "проблемы"],
+    "example_spanish": "La empresa anunció despidos masivos.",
+    "example_russian": "Компания объявила о массовых увольнениях.",
+    "priority": 7
+  },
+  {
+    "id": "contrato",
+    "type": "word",
+    "spanish": "contrato",
+    "russian": "трудовой договор",
+    "transcription": "контра́то",
+    "level": "B1",
+    "tags": ["работа", "юридическое"],
+    "example_spanish": "Firmé un contrato indefinido.",
+    "example_russian": "Я подписал(а) бессрочный трудовой договор.",
+    "priority": 8
+  },
+  {
+    "id": "jornada",
+    "type": "phrase",
+    "spanish": "jornada laboral",
+    "russian": "рабочий день",
+    "transcription": "хорна́да лабора́ль",
+    "level": "B1",
+    "tags": ["работа", "расписание"],
+    "example_spanish": "Mi jornada laboral es de 9 a 18.",
+    "example_russian": "Мой рабочий день с 9 до 18.",
+    "priority": 7
+  },
+  {
+    "id": "devolucion",
+    "type": "word",
+    "spanish": "devolución",
+    "russian": "возврат товара",
+    "transcription": "дэволусьо́н",
+    "level": "B1",
+    "tags": ["покупки", "магазин"],
+    "example_spanish": "Quiero hacer una devolución porque la talla no me queda.",
+    "example_russian": "Я хочу сделать возврат, потому что размер мне не подходит.",
+    "priority": 8
+  },
+  {
+    "id": "talla",
+    "type": "word",
+    "spanish": "talla",
+    "russian": "размер (одежды)",
+    "transcription": "та́лья",
+    "level": "B1",
+    "tags": ["покупки", "одежда"],
+    "example_spanish": "¿Qué talla usas de camisa?",
+    "example_russian": "Какой у тебя размер рубашки?",
+    "priority": 8
+  },
+  {
+    "id": "reembolso",
+    "type": "word",
+    "spanish": "reembolso",
+    "russian": "возврат денег",
+    "transcription": "рээмбо́льсо",
+    "level": "B1",
+    "tags": ["покупки", "финансы"],
+    "example_spanish": "Solicité un reembolso por el producto defectuoso.",
+    "example_russian": "Я запросил(а) возврат денег за бракованный товар.",
+    "priority": 7
+  },
+  {
+    "id": "garantia",
+    "type": "word",
+    "spanish": "garantía",
+    "russian": "гарантия",
+    "transcription": "гаранти́я",
+    "level": "B1",
+    "tags": ["покупки", "услуги"],
+    "example_spanish": "Este teléfono tiene dos años de garantía.",
+    "example_russian": "У этого телефона двухлетняя гарантия.",
+    "priority": 8
+  },
+  {
+    "id": "descuento",
+    "type": "word",
+    "spanish": "descuento",
+    "russian": "скидка",
+    "transcription": "дэскуэ́нто",
+    "level": "B1",
+    "tags": ["покупки", "магазин"],
+    "example_spanish": "Hay un descuento del 20% en toda la tienda.",
+    "example_russian": "Во всём магазине скидка 20%.",
+    "priority": 8
+  },
+  {
+    "id": "queja",
+    "type": "word",
+    "spanish": "queja",
+    "russian": "жалоба",
+    "transcription": "кэ́ха",
+    "level": "B1",
+    "tags": ["покупки", "проблемы"],
+    "example_spanish": "Presenté una queja formal al gerente.",
+    "example_russian": "Я подал(а) официальную жалобу менеджеру.",
+    "priority": 7
+  },
+  {
+    "id": "efectivo",
+    "type": "word",
+    "spanish": "efectivo",
+    "russian": "наличные",
+    "transcription": "эфэ́ктико",
+    "level": "B1",
+    "tags": ["покупки", "финансы"],
+    "example_spanish": "¿Aceptan pago en efectivo?",
+    "example_russian": "Вы принимаете оплату наличными?",
+    "priority": 8
+  },
+  {
+    "id": "sintoma",
+    "type": "word",
+    "spanish": "síntoma",
+    "russian": "симптом",
+    "transcription": "си́нтома",
+    "level": "B1",
+    "tags": ["здоровье", "медицина"],
+    "example_spanish": "Tengo fiebre y dolor de cabeza como síntomas.",
+    "example_russian": "У меня температура и головная боль как симптомы.",
+    "priority": 8
+  },
+  {
+    "id": "receta",
+    "type": "word",
+    "spanish": "receta",
+    "russian": "рецепт (медицинский)",
+    "transcription": "рэсэ́та",
+    "level": "B1",
+    "tags": ["здоровье", "аптека"],
+    "example_spanish": "El médico me dio una receta para antibióticos.",
+    "example_russian": "Врач выписал мне рецепт на антибиотики.",
+    "priority": 8
+  },
+  {
+    "id": "farmacia_b1",
+    "type": "word",
+    "spanish": "farmacia",
+    "russian": "аптека",
+    "transcription": "фармаси́а",
+    "level": "B1",
+    "tags": ["здоровье", "город"],
+    "example_spanish": "Compré las pastillas en la farmacia de la esquina.",
+    "example_russian": "Я купил(а) таблетки в аптеке на углу.",
+    "priority": 9
+  },
+  {
+    "id": "dolor",
+    "type": "word",
+    "spanish": "dolor",
+    "russian": "боль",
+    "transcription": "доло́р",
+    "level": "B1",
+    "tags": ["здоровье", "чувства"],
+    "example_spanish": "Siento un dolor agudo en el estómago.",
+    "example_russian": "Я чувствую острый болевой синдром в животе.",
+    "priority": 8
+  },
+  {
+    "id": "cita_medica",
+    "type": "phrase",
+    "spanish": "cita médica",
+    "russian": "приём у врача",
+    "transcription": "си́та мэ́дика",
+    "level": "B1",
+    "tags": ["здоровье", "услуги"],
+    "example_spanish": "Tengo cita médica a las 10:00.",
+    "example_russian": "У меня приём у врача в 10:00.",
+    "priority": 9
+  },
+  {
+    "id": "seguro_medico",
+    "type": "phrase",
+    "spanish": "seguro médico",
+    "russian": "медицинская страховка",
+    "transcription": "сэ́гуро мэ́дико",
+    "level": "B1",
+    "tags": ["здоровье", "финансы"],
+    "example_spanish": "Mi seguro médico cubre las consultas.",
+    "example_russian": "Моя медицинская страховка покрывает консультации.",
+    "priority": 7
+  },
+  {
+    "id": "reposo",
+    "type": "word",
+    "spanish": "reposo",
+    "russian": "постельный режим",
+    "transcription": "рэпо́со",
+    "level": "B1",
+    "tags": ["здоровье", "лечение"],
+    "example_spanish": "El doctor me recomendó reposo absoluto.",
+    "example_russian": "Доктор порекомендовал мне полный покой.",
+    "priority": 7
+  },
+  {
+    "id": "nervioso",
+    "type": "word",
+    "spanish": "nervioso",
+    "russian": "нервный / взволнованный",
+    "transcription": "нэрвио́со",
+    "level": "B1",
+    "tags": ["эмоции", "чувства"],
+    "example_spanish": "Estoy nervioso antes de la presentación.",
+    "example_russian": "Я нервничаю перед презентацией.",
+    "priority": 8
+  },
+  {
+    "id": "aburrido",
+    "type": "word",
+    "spanish": "aburrido",
+    "russian": "скучающий / скучный",
+    "transcription": "абурри́до",
+    "level": "B1",
+    "tags": ["эмоции", "чувства"],
+    "example_spanish": "Me siento aburrido en esta reunión.",
+    "example_russian": "Мне скучно на этой встрече.",
+    "priority": 7
+  },
+  {
+    "id": "emocionado",
+    "type": "word",
+    "spanish": "emocionado",
+    "russian": "взволнованный / восторженный",
+    "transcription": "эмосьона́до",
+    "level": "B1",
+    "tags": ["эмоции", "чувства"],
+    "example_spanish": "¡Estoy emocionado por el viaje!",
+    "example_russian": "Я в восторге от предстоящей поездки!",
+    "priority": 8
+  }
+]

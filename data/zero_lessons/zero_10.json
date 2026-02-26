@@ -1,0 +1,79 @@
+{
+  "lesson_id": "zero_10",
+  "level": "ZERO",
+  "title": "Числа от 15 до 19",
+  "description": "Завершаем первый десяток уроков — изучаем числа от пятнадцати до девятнадцати",
+  "cards": [
+    {
+      "card_id": "quince",
+      "spanish": "quince",
+      "russian": "пятнадцать",
+      "example": "Quince minutos. (Пятнадцать минут)",
+      "note": "15",
+      "order": 46
+    },
+    {
+      "card_id": "dieciseis",
+      "spanish": "dieciséis",
+      "russian": "шестнадцать",
+      "example": "Dieciséis años. (Шестнадцать лет)",
+      "note": "16 (diez + y + seis → dieciséis) десять + и + шесть → шестнадцать",
+      "order": 47
+    },
+    {
+      "card_id": "diecisiete",
+      "spanish": "diecisiete",
+      "russian": "семнадцать",
+      "example": "Diecisiete libros. (Семнадцать книг)",
+      "note": "17",
+      "order": 48
+    },
+    {
+      "card_id": "dieciocho",
+      "spanish": "dieciocho",
+      "russian": "восемнадцать",
+      "example": "Dieciocho euros. (Восемнадцать евро)",
+      "note": "18",
+      "order": 49
+    },
+    {
+      "card_id": "diecinueve",
+      "spanish": "diecinueve",
+      "russian": "девятнадцать",
+      "example": "Diecinueve personas. (Девятнадцать человек)",
+      "note": "19",
+      "order": 50
+    }
+  ],
+  "quiz": {
+    "type": "choice",
+    "questions": [
+      {
+        "question": "Как сказать «пятнадцать» по-испански?",
+        "options": ["catorce", "quince", "dieciséis", "diecisiete"],
+        "correct_index": 1
+      },
+      {
+        "question": "Как будет «семнадцать» на испанском?",
+        "options": ["dieciséis", "diecisiete", "dieciocho", "diecinueve"],
+        "correct_index": 1
+      },
+      {
+        "question": "Сколько это - «dieciocho»?",
+        "options": ["17", "19", "18", "16"],
+        "correct_index": 2
+      },
+      {
+        "question": "Как сказать «девятнадцать» по-испански?",
+        "options": ["diecisiete", "dieciocho", "diecinueve", "veinte"],
+        "correct_index": 2
+      },
+      {
+        "question": "Сколько лет: «dieciséis años»?",
+        "options": ["11", "16", "18", "17"],
+        "correct_index": 1
+      }
+    ]
+  },
+  "success_message": "Отлично! Ты выучил(а) все числа от 0 до 19 — первые десятки полностью освоены! 🎉🔢"
+}
